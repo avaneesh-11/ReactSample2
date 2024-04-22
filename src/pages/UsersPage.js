@@ -1,4 +1,4 @@
-import React,{startTransition} from 'react';
+import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import LandingPage from './LandingPage';
 
